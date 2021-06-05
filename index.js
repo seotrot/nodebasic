@@ -86,3 +86,5 @@ const idInvalidCardCompanies = (nesArr) => {
 }
 
 console.log(idInvalidCardCompanies([invalid2]))
+
+// second change the made
